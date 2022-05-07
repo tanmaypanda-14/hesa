@@ -1,6 +1,5 @@
 [
   {
-    {
     "id": 1,
     "name": "Official Transcript",
     "amount": "500/-"
@@ -30,5 +29,4 @@
   "name": "Equivalent Percentage Certificate",
   "amount": "150/-"
   }
- }
 ]
