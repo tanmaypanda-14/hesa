@@ -4,22 +4,27 @@
     "name": "Official Transcript",
     "amount": "500/-"
   },
+  {
   "id": 2,
   "name": "Consolidated Grade Card”,
   "amount": "100/-"
   },
+  {
   "id": 3,
   "name": "Bonafide Certificate",
   "amount": "250/-"
   },
+  {
   "id": 4,
   "name": "Duplicate Grade Card",
   "amount": "150/-"
   },
+  {
   "id": 5,
   "name": "Duplicate Degree  Certificate",
   "amount": "250/-"
   },
+  {
   "id": 6,
   "name": "Equivalent Percentage Certificate",
   "amount": "150/-"
