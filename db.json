@@ -1,22 +1,14 @@
-[
-  {
-    "id": 1,
-    "title": "Official Transcript"
-  },
-  {
-    "id": 2,
-    "title": "Consolidated Grade Card"
-  },
-  {
-    "id": 3,
-    "title": "Bonafide Certificate"
+{
+  "posts": [
+    { "id": 1, "title": "Bonafide Certificate" },
+    { "id": 2, "title": "Consolidated Grade Card" },
+    { "id": 3, "title": "Official Transcript" }
+  ],
+  "comments": [
+    { "id": 1, "des": "test2", "docId": 1 },
+    { "id": 2, "des": "test2", "docId": 1 }
+  ],
+  "profile": {
+    "name": "Test"
   }
-  {
-    "id": 4,
-    "title": "Duplicate Grade Card"
-  }
-  {
-    "id": 5,
-    "title": "Duplicate Degree Certificate"
-  }
-]
+}
