@@ -1,32 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Official Transcript",
-    "amount": "500/-"
+    "title": "Official Transcript"
   },
   {
-  "id": 2,
-  "name": "Consolidated Grade Card",
-  "amount": "100/-"
+    "id": 2,
+    "title": "Consolidated Grade Card"
   },
   {
-  "id": 3,
-  "name": "Bonafide Certificate",
-  "amount": "250/-"
-  },
+    "id": 3,
+    "title": "Bonafide Certificate"
+  }
   {
-  "id": 4,
-  "name": "Duplicate Grade Card",
-  "amount": "150/-"
-  },
+    "id": 4,
+    "title": "Duplicate Grade Card"
+  }
   {
-  "id": 5,
-  "name": "Duplicate Degree  Certificate",
-  "amount": "250/-"
-  },
-  {
-  "id": 6,
-  "name": "Equivalent Percentage Certificate",
-  "amount": "150/-"
+    "id": 5,
+    "title": "Duplicate Degree Certificate"
   }
 ]
