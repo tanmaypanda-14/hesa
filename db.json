@@ -1,12 +1,12 @@
 {
-  "posts": [
+  "docs": [
     { "id": 1, "title": "Bonafide Certificate" },
     { "id": 2, "title": "Consolidated Grade Card" },
     { "id": 3, "title": "Official Transcript" }
   ],
-  "comments": [
-    { "id": 1, "des": "test2", "docId": 1 },
-    { "id": 2, "des": "test2", "docId": 1 }
+  "details": [
+    { "id": 1, "des": "test1", "docId": 1 },
+    { "id": 2, "des": "test2", "docId": 2 }
   ],
   "profile": {
     "name": "Test"
